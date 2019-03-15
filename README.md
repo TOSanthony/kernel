@@ -1,2 +1,1 @@
-# 4.4.34
-Kernel_4.4.34
+# Kernel 4.4.34 Android x86
